@@ -5,11 +5,17 @@ A Glossary of terms relevant to Cyber Security
 
 BEC - Business Email Compromise
 
+DFIR - Digital Forensics and Incident Response
+
 HIPAA - Health Insurance Portability and Accountability Act
 
 HIPPA - An often mispelled version of HIPAA
 
 HRCI - High Risk Confidential Information
+
+IR - Incident Response
+
+O365 - Office365
 
 NPPI - Non-Public Personal Information
 
