@@ -1,6 +1,8 @@
 # InfosecGlossary
 A Glossary of terms relevant to Cyber Security
 
+2FA/MFA - Two Factor Authentication or Multi Factor Authentication
+
 BEC - Business Email Compromise
 
 HIPAA - Health Insurance Portability and Accountability Act
